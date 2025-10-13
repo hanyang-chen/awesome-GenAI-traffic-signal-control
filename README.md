@@ -55,6 +55,6 @@ We mainly collect papers from two sources: published papers from top conferences
 
 1. **RobustLight: Improving Robustness via Diffusion Reinforcement Learning for Traffic Signal Control.** *M. Li, J. Wang, G. Yu, X. Wang, et al.* ICML, 2025. [link](https://openreview.net/forum?id=YGjd2xw98G) | [code](https://github.com/AdvancedAI-ComplexSystem/SmartCity/tree/main/robustlight)
 
-2. **DiffLight: A Partial Rewards Conditioned Diffusion Model for Traffic Signal Control with Missing Data.** *H. Chen, Y. Jiang, S. Guo, X. Mao, et al. NeurIPS, 2024.* [link](https://proceedings.neurips.cc/paper_files/paper/2024/hash/df20e06b04dfc499a1a698796abb0856-Abstract-Conference.html) | [code](https://github.com/lokol5579/DiffLight-release)
+2. **DiffLight: A Partial Rewards Conditioned Diffusion Model for Traffic Signal Control with Missing Data.** *H. Chen, Y. Jiang, S. Guo, X. Mao, et al.* NeurIPS, 2024. [link](https://proceedings.neurips.cc/paper_files/paper/2024/hash/df20e06b04dfc499a1a698796abb0856-Abstract-Conference.html) | [code](https://github.com/lokol5579/DiffLight-release)
 
 3. **DiffusionLight: A Multi-Agent Reinforcement Learning Approach for Traffic Signal Control Based on Shortcut-Diffusion Model.** *J. Yu, Z. Wang, R. Zhang.* Applied Intelligence, 2025. [link](https://link.springer.com/article/10.1007/s10489-025-06359-8) | [code](https://github.com/Y-ujl/DiffusionLight)
