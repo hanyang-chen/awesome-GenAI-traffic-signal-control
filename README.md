@@ -1,5 +1,6 @@
-# Awsome-GenAI-Traffic-Signals
+# Awsome Generative AI for Traffic Signal Control
 
+A curated list of research papers and resources on the application of generative AI techniques, including Large Language Models (LLMs), Vision-Language Models (VLMs), and Diffusion Models, in the field of Traffic Signal Control.
 
 ## Large Language Models for Traffic Signal Control
 
