@@ -13,6 +13,8 @@
 5. **VLMLight: Safety-Critical Traffic Signal Control via Vision-Language Meta-Control and Dual-Branch Reasoning Architecture**. *M. Wang, Y. Chen, A. Pang, Y. Cai, C. S. Chen, et al.* NeurIPS, 2025. [link](https://arxiv.org/abs/2505.19486)
 
 
+## Diffusion Models for Traffic Signal Control
+
 ## Survey
 
 1. **The crossroads of llm and traffic control: A study on large language models in adaptive traffic signal control.** *M. Movahedi, J. Choi.* IEEE Transactions on Intelligent Transportation Systems, 2025. [link](https://ieeexplore.ieee.org/abstract/document/10768207)
