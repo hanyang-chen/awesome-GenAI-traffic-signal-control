@@ -1,6 +1,6 @@
 # awsome-GenAI-traffic-signals
 
-## LLMs/VLMs for Traffic Signal Control
+## Large Language Models for Traffic Signal Control
 
 1. **LLM-assisted light: Leveraging large language model capabilities for human-mimetic traffic signal control in complex urban environments**. *M. Wang, A. Pang, Y. Kan, MO. Pun, et al.* ArXiv, 2024. [link](https://arxiv.org/abs/2403.08337)
 
@@ -10,8 +10,9 @@
 
 4. **iLLM-TSC: Integration reinforcement learning and large language model for traffic signal control policy improvement**. *A. Pang, M. Wang, MO. Pun, C. S. Chen, et al.* ArXiv, 2024. [link](https://arxiv.org/abs/2407.06025)
 
-5. **VLMLight: Safety-Critical Traffic Signal Control via Vision-Language Meta-Control and Dual-Branch Reasoning Architecture**. *M. Wang, Y. Chen, A. Pang, Y. Cai, C. S. Chen, et al.* NeurIPS, 2025. [link](https://arxiv.org/abs/2505.19486)
+## Vision-Language Models for Traffic Signal Control
 
+1. **VLMLight: Safety-Critical Traffic Signal Control via Vision-Language Meta-Control and Dual-Branch Reasoning Architecture**. *M. Wang, Y. Chen, A. Pang, Y. Cai, C. S. Chen, et al.* NeurIPS, 2025. [link](https://arxiv.org/abs/2505.19486)
 
 ## Diffusion Models for Traffic Signal Control
 
