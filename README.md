@@ -2,7 +2,7 @@
 
 A curated list of research papers and resources on the application of generative AI techniques, including Large Language Models (LLMs), Vision-Language Models (VLMs), and Diffusion Models, in the field of Traffic Signal Control.
 
-## Large Language Models for Traffic Signal Control
+## Large Language Models
 
 1. **LLM-Assisted Light: Leveraging Large Language Model Capabilities for Human-Mimetic Traffic Signal Control in Complex Urban Environments.** *M. Wang, A. Pang, Y. Kan, MO. Pun, et al.* ArXiv, 2024. [link](https://arxiv.org/abs/2403.08337)
 
@@ -13,12 +13,12 @@ A curated list of research papers and resources on the application of generative
 4. **iLLM-Tsc: Integration Reinforcement Learning And Large Language Model For Traffic Signal Control Policy Improvement.** *A. Pang, M. Wang, MO. Pun, C. S. Chen, et al.* ArXiv, 2024. [link](https://arxiv.org/abs/2407.06025)
 
 
-## Vision-Language Models for Traffic Signal Control
+## Vision-Language Models
 
 1. **VLMLight: Safety-Critical Traffic Signal Control via Vision-Language Meta-Control and Dual-Branch Reasoning Architecture.** *M. Wang, Y. Chen, A. Pang, Y. Cai, C. S. Chen, et al.* NeurIPS, 2025. [link](https://arxiv.org/abs/2505.19486)
 
 
-## Diffusion Models for Traffic Signal Control
+## Diffusion Models
 
 1. **RobustLight: Improving Robustness via Diffusion Reinforcement Learning for Traffic Signal Control.** *M. Li, J. Wang, G. Yu, X. Wang, et al.* ICML, 2025. [link](https://openreview.net/forum?id=YGjd2xw98G)
 
