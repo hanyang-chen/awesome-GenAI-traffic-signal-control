@@ -1,5 +1,9 @@
 # Awsome Generative AI for Traffic Signal Control
 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+<a href="https://github.com/hanyang-chen/Awsome-GenAI-Traffic-Signal-Control/pulls"><img src="https://img.shields.io/github/issues-pr/hanyang-chen/Awsome-GenAI-Traffic-Signal-Control" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/hanyang-chen/Awsome-GenAI-Traffic-Signal-Control/issues"><img src="https://img.shields.io/github/issues/hanyang-chen/Awsome-GenAI-Traffic-Signal-Control" alt="Issues Badge"/></a>
+
 This is a repository that compiles a list of research papers and resources related to the application of generative AI in traffic signal control. We will continuously update this repository with the latest advancements in this field.
 
 Welcome to contribute! If you have any relevant papers or resources, please feel free to submit a pull request.
